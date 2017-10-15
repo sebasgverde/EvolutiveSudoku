@@ -9,6 +9,16 @@
             In diesem class sind alle die Parameter für das GUI
             </summary>
         </member>
+        <member name="F:sudokuGUI.Form1.evo">
+            <summary>
+            Objekt des class Evolution wo wir alle data haben
+            </summary>
+        </member>
+        <member name="M:sudokuGUI.Form1.#ctor">
+            <summary>
+            Hier lesen wir die Eingabe, und sende diese Sudoku als String nachevo
+            </summary>
+        </member>
         <member name="F:sudokuGUI.Form1.components">
             <summary>
             Variable del diseñador requerida.
@@ -26,14 +36,9 @@
             el contenido del método con el editor de código.
             </summary>
         </member>
-        <member name="F:sudokuGUI.Form1.evo">
+        <member name="M:sudokuGUI.Program.Main">
             <summary>
-            Objekt des class Evolution wo wir alle data haben
-            </summary>
-        </member>
-        <member name="M:sudokuGUI.Form1.#ctor">
-            <summary>
-            Hier lesen wir die Eingabe, und sende diese Sudoku als String nachevo
+            Punto de entrada principal para la aplicación.
             </summary>
         </member>
         <member name="T:sudokuGUI.Properties.Resources">
@@ -52,9 +57,21 @@
               búsquedas de recursos usando esta clase de recursos con establecimiento inflexible de tipos.
             </summary>
         </member>
-        <member name="M:sudokuGUI.Program.Main">
+        <member name="F:sudokuGUI.FormGerman.components">
             <summary>
-            Punto de entrada principal para la aplicación.
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:sudokuGUI.FormGerman.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:sudokuGUI.FormGerman.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
             </summary>
         </member>
     </members>

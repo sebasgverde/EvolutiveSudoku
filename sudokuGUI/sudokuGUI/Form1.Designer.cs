@@ -111,7 +111,7 @@
             this.startBtn.Name = "startBtn";
             this.startBtn.Size = new System.Drawing.Size(73, 22);
             this.startBtn.TabIndex = 1;
-            this.startBtn.Text = "Beginnen";
+            this.startBtn.Text = "Start";
             this.startBtn.UseVisualStyleBackColor = false;
             this.startBtn.Click += new System.EventHandler(this.startBtn_Click);
             // 
@@ -148,7 +148,7 @@
             this.groupBox1.Size = new System.Drawing.Size(207, 229);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Allgemeine Parameters";
+            this.groupBox1.Text = "General Parameters";
             // 
             // label8
             // 
@@ -230,9 +230,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(6, 87);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(94, 13);
+            this.label3.Size = new System.Drawing.Size(87, 13);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Max Generationen";
+            this.label3.Text = "Max Generations";
             // 
             // maxGenTxt
             // 
@@ -268,9 +268,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(6, 35);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(120, 13);
+            this.label1.Size = new System.Drawing.Size(102, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Erste Population Grösse";
+            this.label1.Text = "First Population Size";
             // 
             // popSizTxt
             // 
@@ -334,9 +334,9 @@
             this.Methode.AutoSize = true;
             this.Methode.Location = new System.Drawing.Point(6, 25);
             this.Methode.Name = "Methode";
-            this.Methode.Size = new System.Drawing.Size(49, 13);
+            this.Methode.Size = new System.Drawing.Size(43, 13);
             this.Methode.TabIndex = 15;
-            this.Methode.Text = "Methode";
+            this.Methode.Text = "Method";
             // 
             // groupBox3
             // 
@@ -355,9 +355,9 @@
             this.label11.AutoSize = true;
             this.label11.Location = new System.Drawing.Point(12, 32);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(49, 13);
+            this.label11.Size = new System.Drawing.Size(43, 13);
             this.label11.TabIndex = 17;
-            this.label11.Text = "Methode";
+            this.label11.Text = "Method";
             // 
             // crossMetCB
             // 
@@ -384,7 +384,7 @@
             this.groupBox4.Size = new System.Drawing.Size(229, 82);
             this.groupBox4.TabIndex = 19;
             this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Selektion";
+            this.groupBox4.Text = "Selection";
             // 
             // turnIndTxt
             // 
@@ -401,18 +401,18 @@
             this.label13.AutoSize = true;
             this.label13.Location = new System.Drawing.Point(6, 25);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(43, 13);
+            this.label13.Size = new System.Drawing.Size(47, 13);
             this.label13.TabIndex = 15;
-            this.label13.Text = "Eltern 1";
+            this.label13.Text = "Parent 1";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(8, 55);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(92, 13);
+            this.label12.Size = new System.Drawing.Size(122, 13);
             this.label12.TabIndex = 19;
-            this.label12.Text = "Turnier Individuen";
+            this.label12.Text = "Tournament Participants";
             // 
             // selMethoCB
             // 
@@ -519,7 +519,7 @@
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage2.Size = new System.Drawing.Size(234, 207);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Beste jedes Versuchs";
+            this.tabPage2.Text = "Best of every try";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // groupBox5
@@ -534,7 +534,7 @@
             this.groupBox5.Size = new System.Drawing.Size(229, 82);
             this.groupBox5.TabIndex = 21;
             this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "Lakales Maximum";
+            this.groupBox5.Text = "Lacal Maximum";
             // 
             // methodeRestCB
             // 
@@ -555,9 +555,9 @@
             this.label16.AutoSize = true;
             this.label16.Location = new System.Drawing.Point(129, 29);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(71, 13);
+            this.label16.Size = new System.Drawing.Size(64, 13);
             this.label16.TabIndex = 22;
-            this.label16.Text = "Generationen";
+            this.label16.Text = "Generations";
             // 
             // restartGeneTxt
             // 
@@ -574,18 +574,18 @@
             this.label14.AutoSize = true;
             this.label14.Location = new System.Drawing.Point(53, 29);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(33, 13);
+            this.label14.Size = new System.Drawing.Size(29, 13);
             this.label14.TabIndex = 15;
-            this.label14.Text = "Nach";
+            this.label14.Text = "After";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
             this.label15.Location = new System.Drawing.Point(612, 8);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(43, 13);
+            this.label15.Size = new System.Drawing.Size(34, 13);
             this.label15.TabIndex = 28;
-            this.label15.Text = "Schritte";
+            this.label15.Text = "Steps";
             // 
             // label17
             // 
@@ -594,7 +594,7 @@
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(162, 13);
             this.label17.TabIndex = 29;
-            this.label17.Text = "Sebastian Garcia Valencia, 2015";
+            this.label17.Text = "Sebastian Garcia Valencia, 2017";
             // 
             // groupBox6
             // 
@@ -605,7 +605,7 @@
             this.groupBox6.Size = new System.Drawing.Size(152, 229);
             this.groupBox6.TabIndex = 30;
             this.groupBox6.TabStop = false;
-            this.groupBox6.Text = "Eingabe";
+            this.groupBox6.Text = "Input";
             // 
             // groupBox7
             // 
@@ -617,7 +617,7 @@
             this.groupBox7.Size = new System.Drawing.Size(263, 552);
             this.groupBox7.TabIndex = 31;
             this.groupBox7.TabStop = false;
-            this.groupBox7.Text = "Ergebniss";
+            this.groupBox7.Text = "Result";
             // 
             // Form1
             // 
@@ -639,7 +639,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.startBtn);
             this.Name = "Form1";
-            this.Text = "Sudoku, eine Evolutionäre Lösung";
+            this.Text = "Sudoku, an evolutive solution";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

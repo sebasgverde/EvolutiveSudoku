@@ -11,11 +11,3 @@ D:\Dropbox\TU Ilmenau\Materias\KE Evolutionäre Verfahren\beispielimplementirung
 D:\Dropbox\TU Ilmenau\Materias\KE Evolutionäre Verfahren\beispielimplementirung\sudoku\sudokuConsole\sudokuConsole\bin\Debug\Modell.dll
 D:\Dropbox\TU Ilmenau\Materias\KE Evolutionäre Verfahren\beispielimplementirung\sudoku\sudokuConsole\sudokuConsole\bin\Debug\Modell.pdb
 D:\Dropbox\TU Ilmenau\Materias\KE Evolutionäre Verfahren\beispielimplementirung\sudoku\sudokuConsole\sudokuConsole\bin\Debug\Modell.xml
-D:\Dropbox\evolutiveSudoku\sudokuConsole\sudokuConsole\bin\Debug\sudokuConsole.exe
-D:\Dropbox\evolutiveSudoku\sudokuConsole\sudokuConsole\bin\Debug\sudokuConsole.pdb
-D:\Dropbox\evolutiveSudoku\sudokuConsole\sudokuConsole\bin\Debug\Modell.dll
-D:\Dropbox\evolutiveSudoku\sudokuConsole\sudokuConsole\bin\Debug\Modell.pdb
-D:\Dropbox\evolutiveSudoku\sudokuConsole\sudokuConsole\bin\Debug\Modell.xml
-D:\Dropbox\evolutiveSudoku\sudokuConsole\sudokuConsole\obj\x86\Debug\sudokuConsole.csprojResolveAssemblyReference.cache
-D:\Dropbox\evolutiveSudoku\sudokuConsole\sudokuConsole\obj\x86\Debug\sudokuConsole.exe
-D:\Dropbox\evolutiveSudoku\sudokuConsole\sudokuConsole\obj\x86\Debug\sudokuConsole.pdb

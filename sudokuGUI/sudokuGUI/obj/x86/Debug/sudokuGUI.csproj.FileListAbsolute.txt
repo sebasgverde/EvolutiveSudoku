@@ -10,16 +10,3 @@ D:\Dropbox\TU Ilmenau\Materias\KE Evolutionäre Verfahren\beispielimplementirung
 D:\Dropbox\TU Ilmenau\Materias\KE Evolutionäre Verfahren\beispielimplementirung\sudoku\sudokuGUI\sudokuGUI\bin\Debug\Modell.pdb
 D:\Dropbox\TU Ilmenau\Materias\KE Evolutionäre Verfahren\beispielimplementirung\sudoku\sudokuGUI\sudokuGUI\bin\Debug\Modell.xml
 D:\Dropbox\TU Ilmenau\Materias\KE Evolutionäre Verfahren\beispielimplementirung\sudoku\sudokuGUI\sudokuGUI\bin\Debug\sudokuGUI.XML
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\bin\Debug\sudokuGUI.XML
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\obj\x86\Debug\sudokuGUI.exe
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\obj\x86\Debug\sudokuGUI.pdb
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\bin\Debug\sudokuGUI.exe
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\bin\Debug\sudokuGUI.pdb
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\bin\Debug\Modell.dll
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\bin\Debug\Modell.pdb
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\bin\Debug\Modell.xml
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\obj\x86\Debug\sudokuGUI.csprojResolveAssemblyReference.cache
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\obj\x86\Debug\sudokuGUI.Form1.resources
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\obj\x86\Debug\sudokuGUI.Properties.Resources.resources
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\obj\x86\Debug\sudokuGUI.csproj.GenerateResource.Cache
-D:\Dropbox\evolutiveSudoku\sudokuGUI\sudokuGUI\obj\x86\Debug\sudokuGUI.FormGerman.resources

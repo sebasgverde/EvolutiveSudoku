@@ -288,8 +288,8 @@
             this.mutMethodCB.FormattingEnabled = true;
             this.mutMethodCB.Items.AddRange(new object[] {
             "Random Swap",
-            "Mit Einschrankung",
-            "Ohne 9 Fitness"});
+            "With Restriction",
+            "Without 9 Fitness"});
             this.mutMethodCB.Location = new System.Drawing.Point(67, 22);
             this.mutMethodCB.Name = "mutMethodCB";
             this.mutMethodCB.Size = new System.Drawing.Size(143, 21);
@@ -364,7 +364,7 @@
             this.crossMetCB.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.crossMetCB.FormattingEnabled = true;
             this.crossMetCB.Items.AddRange(new object[] {
-            "1-Punkt",
+            "Single-Point",
             "Uniform"});
             this.crossMetCB.Location = new System.Drawing.Point(67, 29);
             this.crossMetCB.Name = "crossMetCB";
@@ -419,8 +419,8 @@
             this.selMethoCB.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.selMethoCB.FormattingEnabled = true;
             this.selMethoCB.Items.AddRange(new object[] {
-            "Turnierauswahl",
-            "Glücksradauswahl"});
+            "Tournament Selection",
+            "Roulette Wheel Selection"});
             this.selMethoCB.Location = new System.Drawing.Point(67, 22);
             this.selMethoCB.Name = "selMethoCB";
             this.selMethoCB.Size = new System.Drawing.Size(143, 21);
@@ -542,8 +542,8 @@
             this.methodeRestCB.FormattingEnabled = true;
             this.methodeRestCB.Items.AddRange(new object[] {
             "Restart",
-            "Nichts machen",
-            "Mutation machen"});
+            "Do Nothing",
+            "Do Mutation"});
             this.methodeRestCB.Location = new System.Drawing.Point(56, 55);
             this.methodeRestCB.Name = "methodeRestCB";
             this.methodeRestCB.Size = new System.Drawing.Size(143, 21);

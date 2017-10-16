@@ -15,9 +15,9 @@ The program have inplementations of:
 ![Class Diagram](https://raw.githubusercontent.com/sebasgverde/evolutiveSudoku/master/Dokumentation/classDiagram.png)
 
 
-#[Theoretical explanation (german for now)](https://github.com/sebasgverde/evolutiveSudoku/blob/master/sudokuFolie.pptx)
+# [Theoretical explanation (german for now)](https://github.com/sebasgverde/evolutiveSudoku/blob/master/sudokuFolie.pptx)
 
-#[User Manual](https://github.com/sebasgverde/evolutiveSudoku/blob/master/Dokumentation/userManual.pdf)
+# [User Manual](https://github.com/sebasgverde/evolutiveSudoku/blob/master/Dokumentation/userManual.pdf)
 
-#[Technic Manual (german for now)](https://github.com/sebasgverde/evolutiveSudoku/tree/master/Dokumentation/Technisches%20Doku)
+# [Technic Manual (german for now)](https://github.com/sebasgverde/evolutiveSudoku/tree/master/Dokumentation/Technisches%20Doku)
 

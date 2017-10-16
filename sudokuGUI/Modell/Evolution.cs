@@ -245,7 +245,8 @@ namespace Modell
         public string getBesteSudPop()
         {
             Sudoku retSud = population[0].fitness > elites[0].fitness ? population[0] : elites[0];
-            return (retSud.sudToString() + schauFitness(retSud) + "\nGeneration Nummer: " + generationIndex);
+            //return (retSud.sudToString() + schauFitness(retSud) + "\nGeneration Nummer: " + generationIndex);
+            return (retSud.sudToString() + schauFitness(retSud) + "\nGeneration Number: " + generationIndex);
         }
 
         /// <summary>
@@ -368,11 +369,12 @@ namespace Modell
            // if (print) Console.Write(fc);
             //if (print) Console.WriteLine("Fitness subMat " + i + "," + j + " : " + fs);
 
-            ret  += ("\nFitn tot chr : " + sud.fitTotChr + "\n");
+            //ret += ("\nFitn tot spalte : " + sud.fitTotChr + "\n");
+            ret += ("\nFitn tot column : " + sud.fitTotChr + "\n");
             for (int i = 0; i < sud.fitnessChrom.Length; i++)
                 ret  += (sud.fitnessChrom[i]);
 
-            ret += ("\n\nFitn tot sub ma : " + sud.fitTotSub + "\n");
+            ret += ("\n\nFitn tot sub matrix : " + sud.fitTotSub + "\n");
                 for (int i = 0; i < 3; i++)
                 {
                     for (int j = 0; j < 3; j++)

@@ -2,7 +2,7 @@
 
 A project to understand the concepts of evolutionary algorithms using the sudoku as study case
 
-This project is based in one I did while I was in the TU Ilmenau, a german university in Thuringen, this is ... well ... not very usefull for the non german speaker world but I wanted to practice mi german :D. To see the original code in german visit:
+This project is based in one I did in german, what is ... well ... not very usefull for the non german speaker world but I did it while I was in the TU Ilmenau, a german university in Thuringen, and I wanted to practice mi german :D. If the german version is usefull for you or you are just curious, the original code in german is available in:
 [Evolutive Sudoku Deutsch](http://sebasgverde.github.io/EvolutiveSudokuDeutsch/)
 
 The program have inplementations of:

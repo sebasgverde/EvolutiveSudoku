@@ -5,7 +5,7 @@ A project to understand the concepts of evolutionary algorithms using the sudoku
 This project is based in one I did in german, what is ... well ... not very usefull for the non german speaker world but I did it while I was in the TU Ilmenau, a german university in Thuringen, and I wanted to practice mi german :D. If the german version is usefull for you or you are just curious, the original code in german is available in:
 [Evolutive Sudoku Deutsch](http://sebasgverde.github.io/EvolutiveSudokuDeutsch/)
 
-The program have inplementations of:
+The program has inplementations of:
 - Selection Methods
 - Crossover Methods
 - Mutation Methods
